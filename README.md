@@ -1,4 +1,4 @@
-## Bilal Ramzy 👋
+## Hi, I'm Bilal Ramzy 👋
 
 🎓 Science student – Alexandria University  
 📊 Aspiring **Data Engineer** | Backend fundamentals  
