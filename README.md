@@ -1,66 +1,27 @@
-## Hi, I'm Bilal Ramzy 👋
+## Bilal Ramzy 👋
 
-🎓 Science student at **Alexandria University**  
-💡 Interested in **Computer Science, Backend Development & Data Engineering**  
-🌍 Based in Egypt
-
----
-
-### 👨‍💻 About Me
-- Computer Science–oriented student focusing on **fundamentals**
-- Strong interest in **Data Structures & Algorithms**
-- Practicing **Object-Oriented Programming (C++)**
-- Currently learning **Backend Development (Node.js)**
-- Exploring **Data Engineering** concepts and tools
-- I enjoy problem-solving and understanding how systems work
+🎓 Science student – Alexandria University  
+📊 Aspiring **Data Engineer** | Backend fundamentals  
+🌍 Egypt
 
 ---
 
-### 🧠 Core Skills
-**Programming**
-- C++
-- JavaScript (for backend)
-
-**Computer Science**
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-
-**Backend (Learning)**
-- Node.js
-- Express.js
-
-**Data Engineering (Beginner)**
-- SQL (basics)
-- Data pipelines (concepts)
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux (basic)
+### Focus
+- **Data Engineering**: SQL, data pipelines, data processing (learning & practice)
+- **Backend basics**: Node.js, Express.js
+- **Core CS**: Data Structures, Algorithms, OOP (C++)
+- **Problem Solving**: Active on **LeetCode** & **Codeforces**
 
 ---
 
-### 📌 Current Focus
-- Improving DSA implementation
-- Writing clean and structured C++ code
-- Building backend & system-oriented projects
-- Preparing for internships and future CS roles
+### Tech
+- **Languages**: C++, JavaScript, Python, SQL (basic)
+- **Data**: ETL concepts, data pipelines (beginner)
+- **Backend**: Node.js, Express.js
+- **Tools**: Git, GitHub, Linux (basic)
 
 ---
 
-### 📂 Projects
-📌 *Pinned repositories represent my learning and practice*
-- DSA & problem-solving repositories
-- OOP projects in C++
-- Backend practice projects
+📌 *Pinned repositories show my projects & problem-solving practice*  
+⭐ Building strong fundamentals for data-focused roles
 
----
-
-### 🤝 Open to
-- Learning with other CS students
-- Beginner-friendly open-source contributions
-- Backend & data-related projects
-
----
-
-⭐ Focused on fundamentals. Building step by step.
