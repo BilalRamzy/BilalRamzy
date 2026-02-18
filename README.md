@@ -1,36 +1,31 @@
-Hi, I'm Bilal Ramzy 👋
+# Hi, I'm Bilal Ramzy 👋
 
-🎓 Science Student – Alexandria University
-📍 Egypt
+🎓 Science Student – Alexandria University  
+📍 Egypt  
 
 I’m building my path toward Data Engineering by focusing on strong fundamentals and real projects.
 
-What I’m Working On
+## What I’m Working On
 
-Data Engineering basics (ETL, SQL, data processing)
+- Data Engineering basics (ETL, SQL, data processing)  
+- Backend fundamentals (Node.js, APIs)  
+- Data Structures & Algorithms (C++)  
+- Problem Solving on LeetCode & Codeforces  
 
-Backend fundamentals (Node.js, APIs)
+## Tech Stack
 
-Data Structures & Algorithms (C++)
+**Languages:**  
+C++ | Python | JavaScript | SQL  
 
-Problem Solving on LeetCode & Codeforces
+**Tools & Concepts:**  
+ETL | SQLite | Pandas | Express.js | Git | Linux  
 
-Tech Stack
-
-Languages:
-C++ | Python | JavaScript | SQL
-
-Tools & Concepts:
-ETL | SQLite | Pandas | Express.js | Git | Linux
-
-Projects
+## Projects
 
 You’ll find:
+- ETL pipelines (like my GDP ETL project)  
+- Backend REST APIs  
+- Problem-solving practice  
+- Frontend experiments  
 
-ETL pipelines (like my GDP ETL project)
-
-Backend REST APIs
-
-Problem-solving practice
-
-Frontend experiments
+Still learning. Still building. One step at a time.
