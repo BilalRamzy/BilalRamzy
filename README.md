@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Ramzy 👋
 
-🎓 Science Student – Alexandria University  
+🎓 Computer Science Student – Alexandria University  
 📍 Egypt  
 
 I’m building my path toward Data Engineering by focusing on strong fundamentals and real projects.
