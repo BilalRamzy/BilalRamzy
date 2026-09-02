@@ -1,4 +1,4 @@
-# Hi, I'm Bilal Ramzy 👋
+# Hi, I'm Bilal Ramzy
 
 **Computer Science & Statistics Student @ Alexandria University | Aspiring Data Engineer | ECPC Competitor**
 
